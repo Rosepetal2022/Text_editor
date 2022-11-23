@@ -3,6 +3,8 @@
   * [Description](#description)
   * [Installation](#installation)
   * [Languages used](#languages)
+  * [Screen Shot](#screenshot)
+  * [Heroku Link](#heroku-link)
   * [Questions](#email)
   
   
@@ -22,6 +24,13 @@
   * javascript
   * node.js
   * indexedDB
+
+  ## Screenshot
+  ![This is an image](./client/src/images/JATE.png)
+
+  ## Heroku link
+
+  https://aqueous-lake-84441.herokuapp.com/
 
 
   ## Questions
